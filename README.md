@@ -2,6 +2,10 @@
 
 Project ini digunakan untuk praktek mata kuliah PBO.
 
+Nama : rusiana janata
+
+NPM : 2015804341
+
 ## Instalasi
 
 - import file `db.sql` ke mariadb,
